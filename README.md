@@ -1,12 +1,12 @@
-<img width="1920" height="1080" alt="Dashboard " src="https://github.com/user-attachments/assets/793a5bd2-1b88-44b4-b7f4-3a2cb7f27afa" /># 📊 Superstore Sales Performance & Insights Dashboard
+# Superstore Sales Performance & Insights Dashboard
 ---
-## 📌 Executive Summary
+## Executive Summary
 
 This project presents an end-to-end sales performance analysis for enterprise retail operations. By leveraging **SQL** for relational database querying and schema setup, **Excel** for dataset cleaning, and **Power BI** for interactive visualizations, this project tracks high-level operational KPIs, monthly sales velocity, category profitability, regional breakdown, and discounting impacts.
 
 ---
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 
 > *Sales Performance Dashboard built in Power BI*
 
@@ -16,7 +16,7 @@ This project presents an end-to-end sales performance analysis for enterprise re
 
 ---
 
-## 🛠️ Tech Stack & Methodology
+## Tech Stack & Methodology
 
 * **Database & Querying:** MySQL (DDL/DML Queries, Data Aggregation, Grouping)
 * **Data Preprocessing:** Microsoft Excel (`cleaned_sales_data.xlsx`)
@@ -25,7 +25,7 @@ This project presents an end-to-end sales performance analysis for enterprise re
 
 ---
 
-## 💡 Key Metrics & Analytical Findings
+## Key Metrics & Analytical Findings
 
 ### 1. High-Level Performance (KPI Summary)
 * **Total Sales:** `$732.01K`
@@ -51,7 +51,7 @@ This project presents an end-to-end sales performance analysis for enterprise re
 | **David** | 2,621 | $699,304.11 | $112,999.00 |
 | **Eva** | 2,890 | $736,081.47 | $105,769.56 |
 
-### 5.Business Problem
+##  Business Problem
 * Effective inventory and sales management are critical in the retail sector. This project aims to:
 * Identify underperforming brands needing pricing or promotional adjustments
 * Determine vendor contributions to sales and profits
